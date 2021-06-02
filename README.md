@@ -4,7 +4,7 @@
 ## 自己的收集使用教程具体找作者
  ### fork 好后，点击 Settings 、 secrets 、 New repository secrets 进行添加相关数据
  参数如下：  
-|  Name | Value  |
+|  Name | Value 
 |  --- | --- |
 | ENABLE_UNICOM  | 直接填写 true |
 | UNICOM_APPID  | 填写获取的 appid |
